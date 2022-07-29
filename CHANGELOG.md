@@ -1,0 +1,11 @@
+# 1.0.0 (2022-07-29)
+
+
+### Bug Fixes
+
+* empty commit for testing ([66995a8](https://github.com/filipeforattini/ff-svc-nextjs/commit/66995a870dfb2bfe7171dd43dd2f0ac6e192124d))
+* empty commit for testing ([aa71134](https://github.com/filipeforattini/ff-svc-nextjs/commit/aa71134f03697d98ab0aac9c3abb4b6e90e9a5d7))
+* empty commit for testing ([fc36fa1](https://github.com/filipeforattini/ff-svc-nextjs/commit/fc36fa19f8b2975ae1583d56f6ed22ac8226b938))
+* empty commit for testing ([6cd2460](https://github.com/filipeforattini/ff-svc-nextjs/commit/6cd24600470819f73c3fac262190002030675ae3))
+* empty commit for testing ([891436d](https://github.com/filipeforattini/ff-svc-nextjs/commit/891436da7e2575b8b40c6c2a00b53c0f54dd63af))
+* empty commit for testing ([f0d96ef](https://github.com/filipeforattini/ff-svc-nextjs/commit/f0d96efdc26bca82c4ab613b6aa561ab50e11c8f))
