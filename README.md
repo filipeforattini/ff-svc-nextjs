@@ -1,34 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ff-svc-nextjs
+ ![](https://github.com/filipeforattini/ff-svc-nextjs/actions/workflows/pipeline.yml/badge.svg) ![](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)
 
-## Getting Started
+This repository is an example of a `svc` to be built with [filipeforattini/ff-iac-github-actions](https://github.com/filipeforattini/ff-iac-github-actions) pipeline and deployed on Kubernetes.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+| Language | Framework | Docker |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="React" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="React" width="40" height="40"/> |
+| Node 17 | 4 | 17 |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Environments
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+| name | deploy | link |
+|:---:|:---:|:---:|
+| dev | ![](https://img.shields.io/github/deployments/filipeforattini/ff-svc-nextjs/dev?label=deploy) | [live](https://ff-svc-nextjs.dev.forattini.app/) |
+| stg | ![](https://img.shields.io/github/deployments/filipeforattini/ff-svc-nextjs/stg?label=deploy) | [live](https://ff-svc-nextjs.stg.forattini.app/) |
+| prd | ![](https://img.shields.io/github/deployments/filipeforattini/ff-svc-nextjs/prd?label=deploy) | [live](https://ff-svc-nextjs.prd.forattini.app/) |
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
