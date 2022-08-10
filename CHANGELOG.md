@@ -1,3 +1,10 @@
+## [1.0.63](https://github.com/filipeforattini/ff-svc-nextjs/compare/v1.0.62...v1.0.63) (2022-08-10)
+
+
+### Bug Fixes
+
+* empty commit for testing ([bd3d986](https://github.com/filipeforattini/ff-svc-nextjs/commit/bd3d9869acd966df2d325e3a09d7f7264f418baf))
+
 ## [1.0.62](https://github.com/filipeforattini/ff-svc-nextjs/compare/v1.0.61...v1.0.62) (2022-08-10)
 
 
