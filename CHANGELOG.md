@@ -1,3 +1,22 @@
+## [1.0.75](https://github.com/filipeforattini/ff-svc-nextjs/compare/v1.0.74...v1.0.75) (2022-08-24)
+
+
+### Bug Fixes
+
+* empty commit for testing ([455f281](https://github.com/filipeforattini/ff-svc-nextjs/commit/455f2815adefe588b5fa0e1d0662ad646fbf4ad2))
+* empty commit for testing ([c9a59e1](https://github.com/filipeforattini/ff-svc-nextjs/commit/c9a59e1d6c1a7c5e01b3bbed4681357dbc6c23b0))
+* empty commit for testing ([930145c](https://github.com/filipeforattini/ff-svc-nextjs/commit/930145cfbadf741e014975240c1e89079397c25e))
+* empty commit for testing ([f950a29](https://github.com/filipeforattini/ff-svc-nextjs/commit/f950a297f3d8ddfbfe620faa34d689fe439bab92))
+* empty commit for testing ([5a5f4b2](https://github.com/filipeforattini/ff-svc-nextjs/commit/5a5f4b2b6d17274a376f6dc48e8b4eaf59ba299b))
+* empty commit for testing ([372bd08](https://github.com/filipeforattini/ff-svc-nextjs/commit/372bd08341366f40312026952e34bf1da0af313a))
+* empty commit for testing ([a505555](https://github.com/filipeforattini/ff-svc-nextjs/commit/a505555b1dda4ddc05d77eedabc22663a48926b6))
+* empty commit for testing ([c530b2f](https://github.com/filipeforattini/ff-svc-nextjs/commit/c530b2ff6727d3f578ead676fc49bc39d396e542))
+* empty commit for testing ([4905338](https://github.com/filipeforattini/ff-svc-nextjs/commit/49053382b308cba0bee9fb0b2655ce3a45f879a0))
+* empty commit for testing ([c94e686](https://github.com/filipeforattini/ff-svc-nextjs/commit/c94e6860bf2efde400937e21d021d070c1b1aa4e))
+* empty commit for testing ([c580f7c](https://github.com/filipeforattini/ff-svc-nextjs/commit/c580f7cd00f917f8dcc94cb9c790c911857abc29))
+* empty commit for testing ([b713dd7](https://github.com/filipeforattini/ff-svc-nextjs/commit/b713dd780d6385fecef65091f9dc48531bafa814))
+* empty commit for testing ([124ffa7](https://github.com/filipeforattini/ff-svc-nextjs/commit/124ffa78dafd8710b66b3c5f04887c3fe0a8779a))
+
 ## [1.0.74](https://github.com/filipeforattini/ff-svc-nextjs/compare/v1.0.73...v1.0.74) (2022-08-17)
 
 
